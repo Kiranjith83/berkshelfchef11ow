@@ -9,3 +9,5 @@ user 'auser' do
   comment 'A random user'
   shell '/bin/bash'
 end
+
+include_recipe 'sudo'
