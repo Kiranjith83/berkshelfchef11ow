@@ -8,5 +8,4 @@
 user 'auser' do
   comment 'A random user'
   shell '/bin/bash'
-  password '$1$JJsvHslasdfjVEroftprNn4JHtDi'
 end
